@@ -17,7 +17,7 @@ public class BoardMainView extends JFrame  {
         super();
 
 
-        this.setSize(800, 700);
+        this.setSize(560, 400);
         this.setTitle("code-generate-tool");
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.setResizable(false);
